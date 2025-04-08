@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SkyBlock Progress</title>
+  <link href="https://fonts.cdnfonts.com/css/minecraftia" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Minecraftia', sans-serif;
+      background-color: black;
+      color: white;
+      text-align: center;
+    }
+
+    .player {
+      width: 45%;
+      display: inline-block;
+      background-color: #222;
+      margin: 10px;
+      padding: 10px;
+      border: 2px solid lime;
+    }
+
+    h1 {
+      color: lime;
+    }
+
+    h2 {
+      color: yellow;
+    }
+
+    p {
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hypixel SkyBlock Progress</h1>
+
+  <div class="Dani">
+    <h2>Dani</h2>
+    <p>Combat: XIII</p>
+    <p>Farming: XX</p>
+    <p>Slayer: Revenant T3</p>
+  </div>
+
+  <div class="Main_cherecter13">
+    <h2>Slav</h2>
+    <p>Combat: VIII</p>
+    <p>Farming: VII</p>
+    <p>Slayer: Revenant T2</p>
+  </div>
+</body>
+</html>
